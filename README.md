@@ -1,3 +1,4 @@
+# Elections Ad Spending Analysis
 During Elections in India, we have seen so much Political parties advertisements on various social media platforms, such as Facebook and Instagram.
 Political parties spend a lot of money on advertising on such platforms.
 Facebook and Instagram are most used social media platforms for advertisements during election campaigns.
